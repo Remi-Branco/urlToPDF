@@ -1,2 +1,2 @@
 # urlToPDF
-Reads list of urls to scrap and converts it to pdf, useful to keep track of online learning material.
+Quick and dirty utility that reads list of urls from text file and converts it to pdf, useful to keep track of online learning material.
